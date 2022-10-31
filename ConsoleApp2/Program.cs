@@ -11,7 +11,7 @@ if (vord == "f" || vord == "F")
     Console.WriteLine("");
     Console.WriteLine(" Начать (1)");
     Console.WriteLine(" Выйти (9)");
-
+  -
     while (true)
     {
         string vord1 = Console.ReadLine();

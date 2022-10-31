@@ -9,5 +9,6 @@ namespace ConsoleApp2
     public class hero_ass
 
     {
+        
     }
 }
